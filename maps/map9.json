@@ -1,0 +1,56 @@
+{
+  "trail1": {
+    "segment": [
+      { "startCoord": { "x": 0, "y": 30 }, "endCoord": { "x": 5, "y": 30 } },
+      { "startCoord": { "x": 5, "y": 30 }, "endCoord": { "x": 5, "y": 25 } },
+      { "startCoord": { "x": 5, "y": 25 }, "endCoord": { "x": 10, "y": 25 } },
+      { "startCoord": { "x": 10, "y": 25 }, "endCoord": { "x": 10, "y": 20 } },
+      { "startCoord": { "x": 10, "y": 20 }, "endCoord": { "x": 15, "y": 20 } },
+      { "startCoord": { "x": 15, "y": 20 }, "endCoord": { "x": 30, "y": 20 } }
+    ],
+    "flowRate": 0.1
+  },
+  "trail2": {
+    "segment": [
+      { "startCoord": { "x": 0, "y": 25 }, "endCoord": { "x": 5, "y": 25 } },
+      { "startCoord": { "x": 5, "y": 25 }, "endCoord": { "x": 5, "y": 20 } },
+      { "startCoord": { "x": 5, "y": 20 }, "endCoord": { "x": 10, "y": 20 } },
+      { "startCoord": { "x": 10, "y": 20 }, "endCoord": { "x": 10, "y": 15 } },
+      { "startCoord": { "x": 10, "y": 15 }, "endCoord": { "x": 15, "y": 15 } },
+      { "startCoord": { "x": 15, "y": 15 }, "endCoord": { "x": 30, "y": 15 } }
+    ],
+    "flowRate": 0.2
+  },
+  "trail3": {
+    "segment": [
+      { "startCoord": { "x": 0, "y": 20 }, "endCoord": { "x": 5, "y": 20 } },
+      { "startCoord": { "x": 5, "y": 20 }, "endCoord": { "x": 5, "y": 15 } },
+      { "startCoord": { "x": 5, "y": 15 }, "endCoord": { "x": 10, "y": 15 } },
+      { "startCoord": { "x": 10, "y": 15 }, "endCoord": { "x": 10, "y": 10 } },
+      { "startCoord": { "x": 10, "y": 10 }, "endCoord": { "x": 15, "y": 10 } },
+      { "startCoord": { "x": 15, "y": 10 }, "endCoord": { "x": 30, "y": 10 } }
+    ],
+    "flowRate": 0.3
+  },
+  "trail4": {
+    "segment": [
+      { "startCoord": { "x": 0, "y": 15 }, "endCoord": { "x": 5, "y": 15 } },
+      { "startCoord": { "x": 5, "y": 15 }, "endCoord": { "x": 5, "y": 10 } },
+      { "startCoord": { "x": 5, "y": 10 }, "endCoord": { "x": 10, "y": 10 } },
+      { "startCoord": { "x": 10, "y": 10 }, "endCoord": { "x": 10, "y": 5 } },
+      { "startCoord": { "x": 10, "y": 5 }, "endCoord": { "x": 15, "y": 5 } },
+      { "startCoord": { "x": 15, "y": 5 }, "endCoord": { "x": 30, "y": 5 } }
+    ]
+  },
+  "trail5": {
+    "segment": [
+      { "startCoord": { "x": 0, "y": 10 }, "endCoord": { "x": 5, "y": 10 } },
+      { "startCoord": { "x": 5, "y": 10 }, "endCoord": { "x": 5, "y": 5 } },
+      { "startCoord": { "x": 5, "y": 5 }, "endCoord": { "x": 10, "y": 5 } },
+      { "startCoord": { "x": 10, "y": 5 }, "endCoord": { "x": 10, "y": 0 } },
+      { "startCoord": { "x": 10, "y": 0 }, "endCoord": { "x": 15, "y": 0 } },
+      { "startCoord": { "x": 15, "y": 0 }, "endCoord": { "x": 30, "y": 0 } }
+    ],
+    "flowRate": 1
+  }
+}

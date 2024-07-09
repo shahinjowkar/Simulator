@@ -1,0 +1,70 @@
+{
+  "trail1": [
+    {
+      "startCoord": { "x": 15, "y": 0 },
+      "endCoord": { "x": 15, "y": 20 }
+    },
+    {
+      "startCoord": { "x": 15, "y": 20 },
+      "endCoord": { "x": 0, "y": 20 }
+    }
+  ],
+  "trail2": [
+    {
+      "startCoord": { "x": 15, "y": 0 },
+      "endCoord": { "x": 15, "y": 20 }
+    },
+    {
+      "startCoord": { "x": 15, "y": 20 },
+      "endCoord": { "x": 30, "y": 20 }
+    }
+  ],
+  "trail3": [
+    {
+      "startCoord": { "x": 15, "y": 0 },
+      "endCoord": { "x": 15, "y": 15 }
+    },
+    {
+      "startCoord": { "x": 15, "y": 15 },
+      "endCoord": { "x": 30, "y": 15 }
+    }
+  ],
+  "trail4": [
+    {
+      "startCoord": { "x": 15, "y": 0 },
+      "endCoord": { "x": 15, "y": 15 }
+    },
+    {
+      "startCoord": { "x": 15, "y": 15 },
+      "endCoord": { "x": 0, "y": 15 }
+    }
+  ],
+  "trail5": [
+    {
+      "startCoord": { "x": 15, "y": 0 },
+      "endCoord": { "x": 15, "y": 15 }
+    },
+    {
+      "startCoord": { "x": 15, "y": 15 },
+      "endCoord": { "x": 8, "y": 15 }
+    },
+    {
+      "startCoord": { "x": 8, "y": 15 },
+      "endCoord": { "x": 8, "y": 30 }
+    }
+  ],
+  "trail6": [
+    {
+      "startCoord": { "x": 15, "y": 0 },
+      "endCoord": { "x": 15, "y": 15 }
+    },
+    {
+      "startCoord": { "x": 15, "y": 15 },
+      "endCoord": { "x": 8, "y": 15 }
+    },
+    {
+      "startCoord": { "x": 8, "y": 15 },
+      "endCoord": { "x": 8, "y": 0 }
+    }
+  ]
+}
